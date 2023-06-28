@@ -10,18 +10,4 @@ const server = express();
 server.use(express.json());
 server.use(projectRouter)
 
-
-
-
-
-
-
-
-
-
-
-
 module.exports = server;
-
-
-
